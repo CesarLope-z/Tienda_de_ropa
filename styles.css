@@ -44,7 +44,6 @@ h1, h2, h3{
     font-family: var(--fuenteletter);
 }
 h1{
-    background-color: black;
     color: var(--blanco);
     text-align: center;
     font-size: 3rem;
